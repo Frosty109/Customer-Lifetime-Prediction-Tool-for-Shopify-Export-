@@ -24,11 +24,11 @@ pytensor
 Input Data Format
 The tool expects a CSV file with the following columns:
 
-Email
-Created at
-Payment Reference
-Total
-Billing Name
+- Email
+- Created at
+- Payment Reference
+- Total
+- Billing Name
 
 ## **Outputs** 
 
